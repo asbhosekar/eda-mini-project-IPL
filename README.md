@@ -22,5 +22,14 @@ The project highlights strategic insights such as:
 •	Boundaries contribute 50–60% of total runs per season
 •	Eden Gardens emerges as the most frequently used venue
 •	AB de Villiers, Virat Kohli, and Lasith Malinga top various performance charts
+
+👥 Collaborators
+Special thanks to:
+
+Pranav Jaipurkar
+Chirag Jhumkawala
+Sandhya Hinduja
+for their guidance and contributions during the session.
+
 Let's Connect
 Open to feedback, collaboration, and discussion with fellow data enthusiasts and cricket fans!
